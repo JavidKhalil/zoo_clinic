@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41734480-1d44-4a19-b4bc-5ea6a212e582" name="Default Changelist" comment="" />
+    <list default="true" id="41734480-1d44-4a19-b4bc-5ea6a212e582" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/entry/EntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entry/EntryPoint.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YRW1sNHomsohKOduMpvHL57bYA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
